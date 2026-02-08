@@ -1,0 +1,88 @@
+🚖 Uber Analytics Dashboard | Power BI
+📌 Project Overview
+
+This project presents an interactive Uber Analytics Dashboard built using Microsoft Power BI.
+The dashboard helps analyze ride performance, revenue trends, customer behavior, vehicle contribution, and demand patterns with a clean, app-like user experience.
+
+🎯 Business Objective
+
+To enable stakeholders to:
+
+Track overall Uber performance
+
+Identify high-performing vehicle types
+
+Analyze revenue and booking trends (Monthly & Quarterly)
+
+Understand customer behavior and preferences
+
+Support data-driven decision making
+
+📊 Key KPIs
+
+Total Bookings
+
+Completed, Cancelled & Incomplete Rides
+
+Total Revenue
+
+Total Distance Covered
+
+Average Distance per Ride
+
+Average Driver & Customer Ratings
+
+Total Customers
+
+🚗 Analysis Covered
+
+Vehicle-wise performance (Auto, Bike, Go Mini, Go Sedan, Premier, Uber XL)
+
+Revenue & booking trends (Month / Quarter toggle)
+
+Contribution % by vehicle type
+
+Payment method analysis
+
+Customer type analysis (First time, Repeat users)
+
+Top pickup & drop locations
+
+Cancellation & incomplete ride reasons
+
+🧠 Power BI Features Used
+
+✔️ Field Parameters (Month / Quarter toggle)
+
+✔️ DAX Measures (Revenue, Contribution %, KPIs)
+
+✔️ Bookmarks & Selection Pane (Navigation & view control)
+
+✔️ Custom Buttons (App-like navigation)
+
+✔️ Interactive Slicers
+
+✔️ Star Schema Data Modeling
+
+✔️ Clean UI / UX Design
+
+🛠️ Tools & Technologies
+
+Microsoft Power BI
+
+DAX
+
+Power Query
+
+Data Modeling
+
+UI/UX Design
+
+📬 Connect With Me
+
+https://www.linkedin.com/in/mayank-agarwal-5b019632b/
+
+agarmayank18@gmail.com    Mob. 83570374535
+
+If you have feedback, suggestions, or opportunities — feel free to connect!
+
